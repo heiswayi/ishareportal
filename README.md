@@ -12,9 +12,9 @@ And this development wasn't just stop there, I kept improving it until we had ou
 
 ## The Shutdown
 
-Due to high tension controversy, and I admitted it about its pros and cons, I decided to shut down IsharePortal on March 12, 2013 effectively. You may [read the shutdown notice here](http://ishare-usm.github.io/ishare-in-memory) [(source code available here)](https://github.com/ishare-usm/ishare-in-memory) - it's a special webpage I created and used as a shutdown webpage in IsharePortal URL.
+Due to high tension controversy, and I admitted it about its pros and cons, I decided to shut down IsharePortal on March 12, 2013 effectively. You may [read the shutdown notice here](http://heiswayi.github.io/ishare-in-memory) [(source code available here)](https://github.com/heiswayi/ishare-in-memory) - it's a special webpage I created and used as a shutdown webpage in IsharePortal URL.
 
-Even though the main portal was shutting down, I created a simple script, a compact version of sharerlink system known as [iLink](https://github.com/ishare-usm/ilink) to enable the sharers to continue to promote their sharerlinks to the community. Nothing was special, just a place to put the sharerlinks with auto-check feature for online-offline status of the sharerlink.
+Even though the main portal was shutting down, I created a simple script, a compact version of sharerlink system known as [iLink](https://github.com/heiswayi/ilink) to enable the sharers to continue to promote their sharerlinks to the community. Nothing was special, just a place to put the sharerlinks with auto-check feature for online-offline status of the sharerlink.
 
 ## Screenshots
 
