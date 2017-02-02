@@ -1,20 +1,31 @@
 # ishareportal
 
-[DEPRECATED] IsharePortal's Source Code
+This repository is a backup of IsharePortal's source code. IsharePortal was the latest version of web portal, fully-featured and functional, totally improvised from [Ishare+](https://github.com/heiswayi/ishare-plus).
 
-## About
+The project was discontinued and the source code might be DEPRECATED.
 
-IsharePortal was a platform for students sharing community in Universiti Sains Malaysia Engineering Campus, established in February 2010 and lasted until March 2013. Originated from "Ishare", a simple WordPress-based site that gathered all sharing servers (popularly known as sharerlinks afterward) from all available sharers and sorted in that one place, so people were easily to find them. Then, Ishare started to have its own loyal users then became a progressive community in the campus. From there, Ishare started to grow faster. Since then, from time to time, I started to revamp the website and built it from scratch in PHP and MySQL.
+## History
 
-And this development wasn't just stop there, I kept improving it until we had our own shoutbox (or chatbox) with our own choice of emoticons (Tuzki & Onion Head Club emoticons) built using jQuery for AJAX processing. Then, I started to continue to implement auto-check feature for online-offline for each sharerlink, where this feature became the most important feature in IsharePortal. In full version, IsharePortal actually already was a CMS where the user management system has been integrated with a PunBB forum system. Whatever it is, Ishare Shoutbox and Ishare Sharerlink Auto-Check are the major features that contributed to the success of IsharePortal.
+IsharePortal was basically a web platform for a sharing community of students in USM Engineering Campus and established in February 2010. Originated from "Ishare", a simple WordPress-based site that just gathered all sharing servers (afterwards popularly known as sharerlinks) from all available sharers (anyone, student, staff, etc.) and sorted them in one place, so other people (users/downloaders) can easily found the sharerlinks. Ishare started to grow faster while in the meantime I kept improving the portal and finally came to a decision that needed a customized system.
 
-**For Sharers. By Sharers.**
+So, I started to build the web portal from scratch using PHP, MySQL and jQuery and continued to improve it from time to time, feature by feature. There are two flagship features that made IsharePortal meaningful to the community;-
 
-## The Shutdown
+- Having our own fully AJAX shoutbox/chatbox application with our own choice of popular, funny and fun emoticons (Tuzki and Onion head club emoticons).
+- Auto-check for online-offline of each sharerlink submitted.
 
-Due to high tension controversy, and I admitted it about its pros and cons, I decided to shut down IsharePortal on March 12, 2013 effectively. You may [read the shutdown notice here](http://heiswayi.github.io/ishare-in-memory) [(source code available here)](https://github.com/heiswayi/ishare-in-memory) - it's a special webpage I created and used as a shutdown webpage in IsharePortal URL.
+At the final stage, IsharePortal was a complete CMS where came with User Profile system and fully integrated with [PunBB](https://github.com/punbb/punbb) forum system. _The source code of PunBB software included here is an altered version that I made specifically to integrate successfully with IsharePortal._
 
-Even though the main portal was shutting down, I created a simple script, a compact version of sharerlink system known as [iLink](https://github.com/heiswayi/ilink) to enable the sharers to continue to promote their sharerlinks to the community. Nothing was special, just a place to put the sharerlinks with auto-check feature for online-offline status of the sharerlink.
+This is the final tagline used by IsharePortal and its community:
+
+> For Sharers. By Sharers.
+
+However, IsharePortal wasn't last long and here is the "sad" part of it...
+
+### The Shutdown
+
+Due to its popularity among the students and everyone else, IsharePortal project had produced some controversies on its own which classified to its pros and cons to keep operated. Creating high traffic load within the network (intranet) due to massive use of bandwidth and publicly sharing of illegal content such as pirated movies using university network were the most highlighted cons by the university administration (known as PPKT). Later, I decided to shut it down on March 12, 2013 effectively. If you're curious, here the [shutdown notice webpage](http://heiswayi.github.io/ishare-in-memory) I backed up.
+
+Due to the community request, even though the main portal was shut down, I had created a simple script and I called it as a compact version of sharerlink system known as [iLink](https://github.com/heiswayi/ilink) to enable the sharers to continue promote their sharerlinks to the community. This script at least was able to reduce high traffic load and make it not so obvious on university administration radar. I'm not sure if iLink still be kept running until today or not as I already left my university a couple of years ago... I hope someone who administered it can keep contributing to the community.
 
 ## Screenshots
 
@@ -41,4 +52,6 @@ _Screenshot 7_
 
 ## License
 
-Please NOTE that, the Source Code might not follow any coding standard except for the forum and the code might be messy. As for PHP 5.5.0, some code may be DEPRECATED. The Source Code is licensed under [MIT license](http://heiswayi.github.io/mit-license).
+Please NOTE that, the Source Code might not follow any coding standard except for the forum and the code may look a quite messy. As for PHP 5.5.0, some code may be DEPRECATED. The Source Code is licensed under [MIT License](http://heiswayi.github.io/mit-license). Some other code may subjected to copyrights to its respective owners or organizations (e.g. PunBB).
+
+© Heiswayi Nrird
