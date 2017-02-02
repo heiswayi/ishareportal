@@ -52,6 +52,6 @@ _Screenshot 7_
 
 ## License
 
-Please NOTE that, the Source Code might not follow any coding standard except for the forum and the code may look a quite messy. As for PHP 5.5.0, some code may be DEPRECATED. The Source Code is licensed under [MIT License](http://heiswayi.github.io/mit-license). Some other code may subjected to copyrights to its respective owners or organizations (e.g. PunBB).
+Please NOTE that, the Source Code might not follow any coding standard except for the forum and the code may look a quite messy. As for PHP 5.5.0, some code may be DEPRECATED. The Source Code is licensed under [MIT License](LICENSE). Some other code may subjected to copyrights to its respective owners or organizations (e.g. PunBB).
 
 © Heiswayi Nrird
